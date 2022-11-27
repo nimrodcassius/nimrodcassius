@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nimrodcassius
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to develop web applications
+- 💞️ I’m looking to collaborate on web dev projects
 - 📫 How to reach me ...
 
 <!---
